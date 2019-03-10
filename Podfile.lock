@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.8.1)
+  - CryptoSwift (0.7.2)
+  - Kingfisher (3.13.1)
+  - ObjectMapper (3.4.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - CryptoSwift (~> 0.7.1)
+  - Kingfisher (~> 3.0)
+  - ObjectMapper (~> 3.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CryptoSwift
+    - Kingfisher
+    - ObjectMapper
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  CryptoSwift: cd2158be2bf639aabc63ec804707c7137c90157c
+  Kingfisher: ed9707a409cc47fddafbcd12a43a9757e3600af5
+  ObjectMapper: 0d4402610f4e468903ae64629eec4784531e5c51
+
+PODFILE CHECKSUM: 382c45dd44761627e6974418448f90af1bfaebbd
+
+COCOAPODS: 1.5.3
